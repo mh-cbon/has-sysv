@@ -1,6 +1,6 @@
 {
   "name": "@mh-cbon/has-sysv",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tells if sysv init system is available on the system",
   "main": "index.js",
   "scripts": {
